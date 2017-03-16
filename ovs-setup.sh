@@ -1,4 +1,5 @@
 #!/bin/bash
+
 sudo ovs-vsctl del-br ovsbr0 2> /dev/null
 sudo ovs-vsctl add-br ovsbr0
 
