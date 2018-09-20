@@ -12,5 +12,3 @@ sudo ovs-vsctl set-fail-mode ovsbr0 secure
 # add interfaces to ovsbr0
 #sudo ovs-vsctl add-port ovsbr0 p1p1
 #sudo ovs-vsctl add-port ovsbr0 p1p2
-#sudo ovs-vsctl add-port ovsbr0 p15p1
-#sudo ovs-vsctl add-port ovsbr0 p15p2
