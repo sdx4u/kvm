@@ -8,9 +8,9 @@ Kernel-based Virtual Machine
 
 2. Reboot the machine
 
-3. Edit and run 'def-setup.sh' and 'ovs-setup.sh'
+3. Edit and run 'ovs-setup.sh'
 
 4. Run 'ovs-into-kvm.sh'
 
 # Requirement
-Optimized for Ubuntu 14.04/16.04
+Optimized for Ubuntu 16.04
