@@ -12,5 +12,11 @@ Kernel-based Virtual Machine
 
 4. Run 'ovs-into-kvm.sh'
 
+5. Run 'virt-manager'
+
+6. Run 'download\_ubuntu.sh'
+
+7. Create a new VM using ISO files in '~/images'
+
 # Requirement
 Optimized for Ubuntu 16.04
