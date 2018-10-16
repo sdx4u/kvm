@@ -9,6 +9,7 @@ sudo ovs-vsctl set-controller ovsbr0 tcp:127.0.0.1:6633
 sudo ovs-vsctl -- set bridge ovsbr0 protocols=OpenFlow10
 sudo ovs-vsctl set-fail-mode ovsbr0 secure
 
+# register ovsbr0 in KVM
 virsh net-define ovsbr0.xml
 virsh net-start ovsbr0
 virsh net-autostart ovsbr0
