@@ -8,15 +8,15 @@ Kernel-based Virtual Machine
 
 2. Reboot the machine
 
-3. Run 'def-setup.sh'
+3. Edit and run 'ovs-setup.sh'
 
-4. Edit and run 'ovs-setup.sh'
+4. Run 'def-setup.sh' if you want to change the default KVM network
 
 5. Run 'download\_ubuntu.sh'
 
 6. Run 'virt-manager'
 
-7. Create a new VM using ISO files in '~/images'
+7. Create a new VM using the given ISO files in '~/images'
 
 # Requirement
 
