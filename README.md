@@ -10,7 +10,7 @@ Kernel-based Virtual Machine
 
 3. Edit and run 'ovs-setup.sh'
 
-4. Run 'def-setup.sh' if you want to change the default KVM network
+4. Run 'def-setup.sh' if you want to modify the default KVM network
 
 5. Run 'download\_ubuntu.sh'
 
